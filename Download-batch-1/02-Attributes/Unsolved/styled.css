@@ -1,0 +1,64 @@
+html{
+    color: white;
+}
+
+body{
+    margin: 0px;
+}
+
+body header{
+    background-color: #781D42;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+h1{
+    color:white;
+}
+
+.section1{
+    margin: 0px;
+    background-color: #A3423C;
+    
+}
+
+.section2{
+    margin: 0px;
+    background-color: #F0D290;
+}
+
+img{
+    border-radius: 30px;
+}
+
+section{
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: lightsteelblue
+}
+
+#portfolio {
+    background-color: darkorange;
+}
+
+#contact{
+    justify-content: center;
+    justify-self: center;
+    color: black;
+}
